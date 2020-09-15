@@ -7,7 +7,7 @@ For easy use of RadarPlotGenerator, a basic understanding of R programming langu
 
 
 # Contact
-Please contact Ben Maylor (bm259@leicester.ac.uk) for any enquiries.
+Please contact Ben Maylor, Leicester Lifestyle and Health Research Group, Diabetes Research Centre, University of Leicester, UK, for any enquiries. Email: bm259@leicester.ac.uk
 
 
 # Citation
